@@ -1,0 +1,24 @@
+/* User Detail */
+
+.user-section {
+    background-color: #d78dff;
+}
+
+.user-section .breadcrums,
+.user-section .breadcrums a {
+    color: #fff;
+}
+
+.user-details a {
+    text-decoration: none;
+}
+
+.user-details .badge-icon {
+    background-color: #d78dff;
+}
+
+.badge-danger {
+    color: #fff;
+    background-color: #dc3545;
+}
+/* User Detail End */

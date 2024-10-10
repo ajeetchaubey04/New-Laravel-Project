@@ -1,0 +1,609 @@
+@media (max-width:1750px) {
+    .dropdown_right_side22 {
+        right: 18%;
+    }
+
+    .cutom-nav-menu {
+        left: 1%;
+    }
+
+    .ctegories-btn {
+        font-size: 13px;
+    }
+
+    .seller-image-bx img.bestcake-image {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+
+@media (max-width:1400px) {
+    .custom_search_box.show-search form input {
+        width: 60%;
+    }
+
+    .dropdown_right_side22 {
+        right: -10%;
+    }
+
+    .custom_search_box {
+        margin: 0 auto;
+        width: 25%;
+        display: block;
+        margin-left: 25px;
+    }
+
+    .custom_search_box form {
+        /* width: 350px; */
+    }
+
+    .cutom-nav-menu {
+        width: max-content;
+    }
+
+    .product-description-bx .nav-pills li.nav-item {
+        width: 48%;
+        margin-inline: 0;
+    }
+
+    .seller-image-bx img.bestcake-image {
+        width: 250px;
+        height: 250px;
+    }
+
+    .seller-image-bx p {
+        width: 80%;
+        font-size: 14px;
+    }
+}
+
+@media (max-width:1200px) {
+    .cutom-nav-menu {
+        left: 0;
+    }
+
+    .cutom-nav-menu {
+        gap: 2px;
+    }
+
+    .custom_search_box form {
+        width: 300px;
+    }
+
+    .navbar-text {
+        width: 60%;
+        padding: 0;
+    }
+
+    .cutom-nav-menu li.nav-item .nav-link {
+        padding-inline: 20px;
+        background: linear-gradient(45deg, #d78dff, #e693ac);
+        width: 86%;
+        margin-bottom: 10px;
+        padding: 12px 24px;
+        color: #FFF;
+        border-radius: 0 50px 50px 0;
+        position: relative;
+    }
+
+    .cutom-nav-menu li.nav-item .nav-link::after {
+        right: 32px;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 24px;
+    }
+
+    .cutom-nav-menu {
+        justify-content: flex-start;
+        gap: 2px;
+        top: 52px;
+        padding: 0;
+        width: 100%;
+        overflow: hidden;
+        overflow-y: auto;
+    }
+}
+
+@media (max-width:1200px) {
+    .Custom_Navbar {
+        padding-block: 15px;
+    }
+
+    .Navbar_text_links,
+    .Navbar_icon_link {
+        display: none;
+    }
+
+    .navbar-text {
+        width: max-content;
+        padding: 0;
+    }
+
+    .tgl-search-icon {
+        font-size: 25px;
+        margin-left: auto;
+        cursor: pointer;
+    }
+
+    .responsive_searchbx {
+        display: flex;
+        gap: 14px;
+        align-items: center;
+    }
+
+    .cart-icon {
+        position: relative;
+        width: 40px;
+        height: auto;
+    }
+
+    .cart-icon span {
+        position: absolute;
+        bottom: -2px;
+        right: -2px;
+        background: #ff0e83;
+        line-height: 1;
+        color: #FFF;
+        width: 20px;
+        border-radius: 50%;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .cutom-nav-menu .dropdown-menu {
+        border-radius: 0;
+        padding: 0;
+        box-shadow: none;
+        border: 0;
+        padding-left: 0px;
+    }
+
+    .cutom-nav-menu .dropdown-menu .dropdown-item,
+    .cutom-nav-menu .dropdown-menu .dropdown-item ul li a {
+        padding: 8px 0;
+    }
+
+    .cutom-nav-menu .dropdown-menu .dropdown-item ul li a {
+        display: inline-block;
+        text-decoration: none;
+        width: 100%;
+        padding-inline: 40px !important;
+    }
+
+    .cutom-nav-menu .dropdown-menu li a {
+        padding: 8px 40px !important;
+        border-bottom: 1px solid rgb(0 0 0 / 20%);
+    }
+
+    .ul_title {
+        padding-inline: 30px;
+    }
+
+    .cutom-nav-menu li.nav-item .nav-link {
+        padding-inline: 20px;
+    }
+
+    .custom_search_box {
+        position: absolute;
+        top: 75px;
+        width: 100%;
+        left: 0;
+        margin: 0;
+    }
+
+    .custom_search_box form {
+        width: 100%;
+    }
+
+    .custom-slider-item h2 {
+        font-size: 30px;
+    }
+
+    .custom_search_box {
+        display: none;
+    }
+
+    main.target_continer {
+        overflow-x: hidden;
+    }
+
+    .shop-gifts {
+        font-size: 14px;
+    }
+
+    .shop_for {
+        font-size: 21px;
+    }
+
+    .yummy-cake-sec h2,
+    .best-seller h2 {
+        font-size: 30px;
+    }
+
+    .seller-image-bx img.bestcake-image {
+        width: 200px;
+        height: 200px;
+    }
+
+    button.btn-close {
+        display: inline-block;
+    }
+}
+
+@media (max-width:991px) {
+    .custom_search_box.show-search form input {
+        width: 90%;
+    }
+
+    .Custom_Navbar {
+        padding-block: 15px;
+    }
+
+    .Navbar_text_links,
+    .Navbar_icon_link {
+        display: none;
+    }
+
+    .navbar-text {
+        width: max-content;
+        padding: 0;
+    }
+
+    .tgl-search-icon {
+        font-size: 25px;
+        margin-left: auto;
+        cursor: pointer;
+    }
+
+    .responsive_searchbx {
+        display: flex;
+        gap: 14px;
+        align-items: center;
+    }
+
+    .cart-icon {
+        position: relative;
+        width: 40px;
+        height: auto;
+    }
+
+    .cart-icon span {
+        position: absolute;
+        bottom: -2px;
+        right: -2px;
+        background: #ff0e83;
+        line-height: 1;
+        color: #FFF;
+        width: 20px;
+        border-radius: 50%;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .cutom-nav-menu {
+        gap: 2px;
+        top: 0;
+        padding: 0;
+        width: 100%;
+        overflow: hidden;
+        overflow-y: auto;
+    }
+
+    .cutom-nav-menu .dropdown-menu {
+        border-radius: 0;
+        padding: 0;
+        box-shadow: none;
+        border: 0;
+        padding-left: 0px;
+    }
+
+    .cutom-nav-menu .dropdown-menu .dropdown-item,
+    .cutom-nav-menu .dropdown-menu .dropdown-item ul li a {
+        padding: 8px 0;
+    }
+
+    .cutom-nav-menu .dropdown-menu .dropdown-item ul li a {
+        display: inline-block;
+        text-decoration: none;
+        width: 100%;
+        padding-inline: 40px !important;
+    }
+
+    .cutom-nav-menu .dropdown-menu li a {
+        padding: 8px 40px !important;
+        border-bottom: 1px solid rgb(0 0 0 / 20%);
+    }
+
+    .ul_title {
+        padding-inline: 30px;
+    }
+
+    .cutom-nav-menu li.nav-item .nav-link {
+        padding-inline: 20px;
+    }
+
+    .custom_search_box {
+        position: absolute;
+        top: 75px;
+        width: 100%;
+        left: 0;
+        margin: 0;
+    }
+
+    .custom_search_box form {
+        width: 100%;
+    }
+
+    .social-media-icon {
+        gap: 40px;
+        margin-top: 26px;
+    }
+
+    .enquiry-bxs {
+        gap: 13px;
+        justify-content: flex-start;
+        margin-top: 30px;
+    }
+
+    button.btn-close {
+        display: inline-block;
+    }
+
+    .custom_search_box {
+        display: none;
+    }
+
+    .total-review h3 {
+        font-size: 31px;
+        width: 35%;
+    }
+
+    .total-review h3 i {
+        font-size: 22px;
+    }
+
+    .seller-image-bx p {
+        width: 90%;
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width:767px) {
+    .rate {
+        background: #00000000;
+        color: #49a316;
+    }
+    .product_txt_bx .item-title{
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-bottom: 5px; /* Adjust margin as needed */
+    }
+    .dropdown-menu[data-bs-popper] {
+        /* left: -46px; */
+        top: 65px;
+        right: -75px;
+    }
+
+    .Custom_Navbar a.navbar-brand {
+        width: 130px;
+        margin: 0;
+    }
+
+    .responsive_searchbx {
+        gap: 9px;
+    }
+
+    .tgl-search-icon {
+        font-size: 20px;
+        margin-left: auto;
+        cursor: pointer;
+    }
+
+    .cart-icon {
+        position: relative;
+        width: 32px;
+        height: auto;
+    }
+
+    .cart-icon span {
+        width: 15px;
+        height: 15px;
+        font-size: 11px;
+    }
+
+    .banner-col-txt {
+        padding: 25px 25px;
+    }
+
+    .filter_input_bx select {
+        width: 100%;
+    }
+
+    .goodthings_heading h2 {
+        font-size: 24px;
+    }
+
+    .goodthings_heading p {
+        font-size: 20px;
+    }
+
+    .do_you_find button {
+        width: 125px;
+        margin: 0px 4px;
+    }
+
+    .do_you_find {
+        margin: 70px auto 0;
+    }
+
+    .description_text table td {
+        padding: 5px 5px;
+    }
+
+    .social-icon-text {
+        margin-top: 28px;
+    }
+
+    .social-media-icon {
+        gap: 30px;
+        margin-top: 20px;
+    }
+
+    .copy {
+        padding-top: 10px;
+        margin-top: 20px;
+    }
+
+    .icon_box img {
+        width: 200px;
+    }
+
+    .custom_search_box {
+        top: 70px;
+    }
+
+    .show-search {
+        position: relative;
+        top: 0px;
+        display: block;
+    }
+
+    .show-search .form-search {
+        padding: 0;
+        width: 350px;
+        margin: 0;
+    }
+
+    .search-items {
+        /* left: 55px; */
+    }
+
+    span.original-price {
+        font-size: 40px;
+    }
+
+    .product-price h2 {
+        font-size: 24px;
+    }
+
+    ul.image-big-list {
+        width: 80%;
+    }
+
+    ul.image-small-list {
+        width: 16%;
+    }
+
+    li.image-small-list-item {
+        margin-bottom: 8px;
+    }
+
+    .product-description-bx .nav-pills li.nav-item {
+        width: 47%;
+    }
+
+    .frequent-heading-bx button {
+        font-size: 13px !important;
+    }
+
+    .pickup-upgrade h2,
+    .offer-bx h2,
+    .product-description-bx h2,
+    .frequent-heading-bx h2 {
+        font-size: 17px;
+    }
+
+    .yummy-cake-sec h3 {
+        font-size: 23px !important;
+    }
+
+    .total-review h3 {
+        font-size: 28px;
+        width: 36%;
+    }
+
+    .total-review h3 i {
+        font-size: 22px;
+        margin-left: 6px;
+    }
+
+    .input-code-bx i {
+        font-size: 17px;
+    }
+
+    .categories_listing,
+    .yummy-cake-sec {
+        padding-inline: 15px;
+    }
+
+    .yummy-cake-sec h2,
+    .best-seller h2 {
+        font-size: 25px;
+    }
+
+    .yummy-cake-sec .view_all {
+        right: 18px;
+        border-radius: 9px;
+        font-size: 16px;
+        padding: 6px 10px;
+    }
+
+    .find_gift_for_loved_once h2 {
+        font-size: 25px;
+    }
+
+    .shop-gifts {
+        font-size: 14px;
+        padding: 10px 40px;
+    }
+
+    .select-grams .weight-labels {
+        font-size: 13px;
+    }
+
+    .buynow-cart-btn {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        z-index: 100;
+        left: 0;
+        display: flex;
+    }
+
+    .buynow-cart-btn button {
+        margin: 0 !important;
+        width: 100%;
+        border-radius: 0;
+    }
+
+    .select-grams {
+        gap: 10px;
+    }
+}
+
+@media (max-width:412px) {
+
+    .yummy-cake-sec .view_all {
+        right: 15px;
+        border-radius: 9px;
+        font-size: 13px;
+        padding: 6px 8px;
+    }
+
+    .yummy-cake-sec h3 {
+        font-size: 20px !important;
+    }
+
+}
+
+
+
+
