@@ -90,7 +90,7 @@
 @endpush
 
 @section('meta')
-    <title>Shyam Lal Sweets Bhandar</title>
+    <title>Demo Website</title>
     <meta content="Sample description" name="description">
     <meta content="Sample keywords" name="keywords">
     <link rel="canonical" href="{{ request()->url() }}" />
