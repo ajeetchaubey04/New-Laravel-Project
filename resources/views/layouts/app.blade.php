@@ -26,10 +26,8 @@
 
         @include('partials.footer')
 
-        @include('partials.cart')
-
         @yield('modals')
-        
+
     </main>
     <!-- End #main -->
     @include('layouts.js')
